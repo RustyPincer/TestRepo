@@ -3,6 +3,7 @@ package my_app;
 public class Main{
 	public static int POPULATION = 0;
 	public static final int SIDE_BUFFER_SIZE = 1024;
+	public static int AVERAGE_AGE = 0;
 	
 	
 	public static void main(String[] args) {
