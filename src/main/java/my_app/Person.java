@@ -1,6 +1,7 @@
 package my_app;
 
 public class Person{
+	public static int WORKING_HOURS = 8;
     private String[] hobbies;
     protected Date birthDate;
     
