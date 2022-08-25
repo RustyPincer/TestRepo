@@ -1,10 +1,7 @@
 package my_app;
 
 public class Main{
-	public static final int MEDIAN_AGE = 0;
-	public static final int SIDE_BUFFER_SIZE = 1024;
-	//just a line to modify the location of the warning
-	public static int POPULATION = 0;
+	public static final int POPULATION = 0;
 	
 	
 	public static void main(String[] args) {
