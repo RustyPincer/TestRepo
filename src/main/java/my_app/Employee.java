@@ -1,7 +1,7 @@
 package my_app;
 
 public class Employee{
-	public static int WORKING_HOURS = 8;
+	public static final int WORKING_HOURS = 8;
 	public static final int AVERAGE_BREAK = 20;
     private String[] hobbies;
     public Date birthDate;
