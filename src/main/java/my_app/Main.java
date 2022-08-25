@@ -5,7 +5,7 @@ public class Main{
 	
 	
 	public static void main(String[] args) {
-		Worker p = new Worker();
+		Employee p = new Employee();
 		String[] hobby = new String[]{"tailer"};
 		p.setHobbies(hobby);
 		Date personDate = p.getBirthDate();

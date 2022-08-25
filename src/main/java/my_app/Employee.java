@@ -1,12 +1,12 @@
 package my_app;
 
-public class Worker{
+public class Employee{
 	public static int WORKING_HOURS = 8;
-	public static int AVERAGE_BREAK = 20;
+	public static final int AVERAGE_BREAK = 20;
     private String[] hobbies;
     public Date birthDate;
     
-    public Worker(){
+    public Employee(){
 		hobbies = new String[]{};
 		birthDate = new Date();
 	}
