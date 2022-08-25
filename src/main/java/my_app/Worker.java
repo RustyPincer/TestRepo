@@ -1,11 +1,11 @@
 package my_app;
 
-public class Person{
-	public static int WORKING_HOURS = 8;
+public class Worker{
+	public static final int WORKING_HOURS = 8;
     private String[] hobbies;
     protected Date birthDate;
     
-    public Person(){
+    public Worker(){
 		hobbies = new String[]{};
 		birthDate = new Date();
 	}
