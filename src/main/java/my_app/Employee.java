@@ -1,10 +1,8 @@
 package my_app;
 
 public class Employee{
-	//adding another line to move the fix
 	public static final int WORKING_HOURS = 8;
-	//line to separate warnings
-	public static final int AVERAGE_BREAK = 20;
+	public static int AVERAGE_BREAK = 20;
     private String[] hobbies;
     public Date birthDate;
     
